@@ -1,6 +1,6 @@
 {
   "name": "psg-calendrier-avent",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "engines": {
     "node": "24.x"
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "discord.js": "14.22.1",
-    "@napi-rs/canvas": "0.1.80"
+    "@napi-rs/canvas": "0.1.80",
+    "sharp": "0.35.5"
   }
 }
